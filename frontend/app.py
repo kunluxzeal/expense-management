@@ -4,7 +4,8 @@ from add_update_ui import add_update_tab
 from analytics_ui import analytics_tab
 
 
-API_URL = "http://localhost:8000"
+API_URL = "https://expense-management-g8gz.onrender.com"
+
 
 st.set_page_config(
     page_title="Expense Management System",

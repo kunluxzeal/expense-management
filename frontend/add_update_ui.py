@@ -4,7 +4,8 @@ from datetime import datetime
 import requests
 
 
-API_URL = "http://localhost:8000"
+API_URL = "https://expense-management-g8gz.onrender.com"
+
 
 def add_update_tab():
 

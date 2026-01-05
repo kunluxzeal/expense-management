@@ -5,7 +5,8 @@ import requests
 import pandas as pd
 
 
-API_URL = "http://localhost:8000"
+API_URL = "https://expense-management-g8gz.onrender.com"
+
 
 def analytics_tab():
     col1, col2  = st.columns(2)
